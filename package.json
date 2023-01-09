@@ -23,7 +23,7 @@
     "@auth0/angular-jwt": "^2.1.0",
     "chart.js": "^2.8.0",
     "core-js": "^2.5.4",
-    "fullcalendar": "^4.0.0-alpha.2",
+    "fullcalendar": "^6.0.2",
     "jquery": "^3.4.0",
     "ngx-avatar": "^3.3.5",
     "ngx-responsive": "^7.0.1",
